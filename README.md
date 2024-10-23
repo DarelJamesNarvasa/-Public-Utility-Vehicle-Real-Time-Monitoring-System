@@ -15,6 +15,8 @@ Requirements
 
 
 Circuit Diagram
+
+
 ![Screenshot_63](https://github.com/user-attachments/assets/12042f52-42e2-461e-a2b0-839ed42c20c8)
 
 

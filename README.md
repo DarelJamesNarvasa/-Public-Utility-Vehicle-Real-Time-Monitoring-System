@@ -16,9 +16,6 @@ Requirements
 Circuit Diagram
 ![Screenshot_63](https://github.com/user-attachments/assets/12042f52-42e2-461e-a2b0-839ed42c20c8)
 
-Output: 
-![image](https://github.com/user-attachments/assets/077365ab-2167-48d5-aebb-d6ec2adb9e02)
-![image](https://github.com/user-attachments/assets/ec0d1fff-ae2f-460a-b89f-15acbd50e9e0)
 
 
 

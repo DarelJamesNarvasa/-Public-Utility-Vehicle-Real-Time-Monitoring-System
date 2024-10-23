@@ -129,7 +129,7 @@ void setup() {
             lcd.print("MQTT Failed   ");
             delay(2000);
         }
-    }
+    }'
 
 
     // Publish and subscribe
@@ -138,7 +138,7 @@ void setup() {
 
 
     lcd.clear(); // lcd clear
-}
+'}
 
 
 void loop() {
@@ -167,7 +167,7 @@ void loop() {
     }
     else{
       lcd.setCursor(0, 1);
-      lcd.print("Card Scanned");
+      lcd.print("Card Scanned");'
            
       doc["latitude"] = Latitude;
       doc["longitude"] = Longitude;
@@ -210,10 +210,11 @@ void loop() {
     client.publish(topic, jsonBuffer);
     delay(100);
     lcd.clear();
-  }
+  '}
+  
   else{
     lcd.setCursor(0, 0);
-    lcd.print("Wait for GPS");
+    lcd.print("Wait for GPS");'
 
 
     while (SerialGPS.available() > 0){

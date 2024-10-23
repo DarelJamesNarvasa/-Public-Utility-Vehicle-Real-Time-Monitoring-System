@@ -18,6 +18,14 @@ Circuit Diagram
 
 ![Screenshot_63](https://github.com/user-attachments/assets/12042f52-42e2-461e-a2b0-839ed42c20c8)
 
+Output
+
+![Screenshot_65](https://github.com/user-attachments/assets/32fa6df7-9e78-42df-8133-51cc75de3760)
+![Screenshot_64](https://github.com/user-attachments/assets/0295e2f4-9369-4a1d-8d70-e9746d94bfc4)
+
+## Communication Protocol
+
+## Website(Hardware)
 
 
 

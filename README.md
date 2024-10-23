@@ -23,9 +23,19 @@ Output
 ![Screenshot_65](https://github.com/user-attachments/assets/32fa6df7-9e78-42df-8133-51cc75de3760)
 ![Screenshot_64](https://github.com/user-attachments/assets/0295e2f4-9369-4a1d-8d70-e9746d94bfc4)
 
-## Communication Protocol
+## Website (Software)
+Requirements
+- PyCharm IDE (Community or Professional)
 
-## Website(Hardware)
+Setup
+1. Clone this repository.
+2. Install Flask on PyCharm.
+3. Install dependencies using 'pip install <package>'
+
+Output
+
+![401191001_872135337889067_2070366086414970092_n (1)](https://github.com/user-attachments/assets/6ff41368-da11-424e-92cf-b6c96930499f)
+
 
 
 

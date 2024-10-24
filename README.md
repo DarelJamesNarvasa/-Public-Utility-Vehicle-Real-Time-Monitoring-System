@@ -4,10 +4,11 @@ This guide provides a procedure for the IoT PUV Real-Time Monitoring System proj
 
 
 In this guide, users will learn how to set up the necessary hardware, configure the website, and integrate these elements to create a fully functional real-time monitoring solution.
-![Screenshot_61](https://github.com/user-attachments/assets/1a767af9-51a5-4d13-8d2e-3cedd840f445)
-![Screenshot_62](https://github.com/user-attachments/assets/aec43681-4bb9-4ff8-9a3c-9f778b85c983)
 
 ## Physical Device (Hardware)
+
+![Screenshot_62](https://github.com/user-attachments/assets/aec43681-4bb9-4ff8-9a3c-9f778b85c983)
+
 Requirements
 - Arduino IDE
 - Install ESP32 to Arduino IDE
